@@ -1,6 +1,6 @@
 # Drink Water App 
 
-Live project:
+Live project: https://wyne-ybanez.github.io/drink_water_app/
 
 ### Learning Outcomes 
 
