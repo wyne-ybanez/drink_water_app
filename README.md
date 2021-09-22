@@ -4,9 +4,10 @@ Live project:
 
 ### Learning Outcomes 
 
-- Advanced Javascript concepts
-- Click Events 
-- JS Maths
+- Advanced Javascript concepts e.g. tracking
+- DOM manipulation
+- Click Events
+- JS Calculation
 
 ### Credits
 
